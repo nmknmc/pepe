@@ -7,8 +7,9 @@
 * [Etherscan Token Page](https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933)
   * See recent transactions and the total of on-chain holders&#x20;
 
-## Charts
+## Price & Charts
 
+* [Coingecko](https://www.coingecko.com/en/coins/pepe)
 * [DexTools](https://www.dextools.io/app/en/ether/pair-explorer/0xA43fe16908251ee70EF74718545e4FE6C5cCEc9f)
 * [Dexscreener](https://dexscreener.com/ethereum/0xa43fe16908251ee70ef74718545e4fe6c5ccec9f)
 
