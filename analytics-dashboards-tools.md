@@ -6,6 +6,8 @@
 * [PEPE Chart](https://dune.com/pepechart/info) (Dune Dashboard)
 * [Etherscan Token Page](https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933)
   * See recent transactions and the total of on-chain holders&#x20;
+* [Google Trends](https://trends.google.com/trends/explore?date=today%201-m\&geo=US\&q=pepe%20coin\&hl=en)
+  * Search volume on Google for "pepe coin"
 
 ## Price & Charts
 
