@@ -21,4 +21,5 @@
 
 ## News & Articles
 
-* [CryptoPanic "pepe"](https://cryptopanic.com/news/solana/?search=pepe)
+* [CryptoPanic Search "pepe"](https://cryptopanic.com/news?search=pepe)
+* [Twitter Search "$pepe"](https://twitter.com/search?q=%2524pepe) (be careful, lots of scams)
