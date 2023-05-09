@@ -1,12 +1,12 @@
 # Exchanges to trade PEPE
 
-## Decentralized
+## Decentralized \[DEX]
 
 * [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH\&outputCurrency=0x6982508145454Ce325dDbE47a25d4ec3d2311933)
 * [1inch](https://app.1inch.io/#/1/simple/swap/ETH/PEPE)
 * [Sushiswap](https://www.sushi.com/swap?fromChainId=1\&fromCurrency=NATIVE\&toChainId=1\&toCurrency=0x6982508145454Ce325dDbE47a25d4ec3d2311933)
 
-## Centralized
+## Centralized \[~~S~~CEX]
 
 * [Huobi](https://www.huobi.com/en-us/exchange/pepe\_usdt)
 * [Binance](https://www.binance.com/en/price/pepe)
