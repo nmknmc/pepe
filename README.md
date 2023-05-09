@@ -29,18 +29,9 @@ A collection of things that is growing as we find them...
 [exchanges-to-trade-pepe.md](exchanges-to-trade-pepe.md)
 {% endcontent-ref %}
 
-<details>
-
-<summary>Twitter Spaces</summary>
-
-It's impossible to find every twitter space but looking at these I'm sure you'll find more from participants
-
-* [Twitter Space May, 9th, 2023: The Break Down #182: $PEPE Updates.](https://twitter.com/i/spaces/1ypKddvVjBNKW?s=20)
-* [Twitter Space May, 9th 2023: $PEPE](https://twitter.com/i/spaces/1zqKVPaZERmJB?s=20)
-* [Twitter Space May 3rd, 2023](https://twitter.com/i/spaces/1nAKEryyMXyGL?s=20)
-* [Twitter Space May 2nd, 2023](https://twitter.com/i/spaces/1MYxNgypeLZKw?s=20)
-
-</details>
+{% content-ref url="misc/twitter-spaces.md" %}
+[twitter-spaces.md](misc/twitter-spaces.md)
+{% endcontent-ref %}
 
 <details>
 
