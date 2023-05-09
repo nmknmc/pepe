@@ -26,6 +26,12 @@ description: PeyPey pays me every day
 
 <figure><img src=".gitbook/assets/pepe-musk.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/pepe-lets-get-to-work.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/pepe-gm.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/pepe-piss.jpg" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://twitter.com/Pauly0x/status/1656011767045136402?s=20" %}
 
 {% embed url="https://twitter.com/FullM3talMag/status/1656014425269362689" %}
