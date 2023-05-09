@@ -1,7 +1,7 @@
 # Facts
 
 {% hint style="success" %}
-PeyPey pays me every day
+PEPE pays me every day
 {% endhint %}
 
 ## $PEPE
