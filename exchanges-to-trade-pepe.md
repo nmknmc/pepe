@@ -16,3 +16,4 @@
 * [Crypto.com](https://crypto.com/price/pepe)
 * [MEXC](https://www.mexc.com/exchange/PEPE\_USDT)
 * [Bitget](https://www.bitget.com/en/spot/PEPEUSDT\_SPBL)
+* Gemini (coming :tada:)
