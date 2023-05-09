@@ -16,8 +16,8 @@ A collection of things that is growing as we find them...
 * Website: [pepe.vip](https://t.co/Ew1wRiJn8q)
 * Telegram: [t.me/pepecoineth](https://t.co/DJPPQyFYKA)
 * Discord: [pepe-palace](https://discord.gg/pepe-palace)
-* Official Cash Tag: $PEPE
-* Contract Address (ETH): 0x6982508145454ce325ddbe47a25d4ec3d2311933
+* Cash Tag: $PEPE
+* Contract Address (ETH): [0x6982508145454ce325ddbe47a25d4ec3d2311933](https://etherscan.io/address/0x6982508145454ce325ddbe47a25d4ec3d2311933)
 
 </details>
 
@@ -50,3 +50,7 @@ A collection of things that is growing as we find them...
 > _-- Fake Lawyer_
 
 [pepe.nmknmc.xyz](https://pepe.nmknmc.xyz)
+
+{% hint style="info" %}
+Wanna add something? Hit up the [repo](https://github.com/nmknmc/pepe-docs) on Github and do a PR
+{% endhint %}

@@ -10,3 +10,7 @@ description: Interesting twitter accounts writing about $PEPE
 * [BlockchadTrav](https://twitter.com/BlockchadTrav)
 * [BobbyZoo](https://twitter.com/BobbyZoo\_BA)
 * [BΞRG](https://twitter.com/Berg0x)
+
+## Art
+
+* [Batzdu](https://twitter.com/batzdu) Abstract art on PEPE
