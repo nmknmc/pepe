@@ -33,18 +33,9 @@ A collection of things that is growing as we find them...
 [twitter-spaces.md](misc/twitter-spaces.md)
 {% endcontent-ref %}
 
-<details>
-
-<summary>Interesting twitter accounts writing about $PEPE</summary>
-
-* [Pauly0x](https://twitter.com/Pauly0x)
-* [Kenobi](https://twitter.com/OG\_Kenobi\_Hello)
-* [008.eth](https://twitter.com/008\_eth)
-* [BlockchadTrav](https://twitter.com/BlockchadTrav)
-* [BobbyZoo](https://twitter.com/BobbyZoo\_BA)
-* [BΞRG](https://twitter.com/Berg0x)
-
-</details>
+{% content-ref url="misc/twitter-accounts.md" %}
+[twitter-accounts.md](misc/twitter-accounts.md)
+{% endcontent-ref %}
 
 > I can give legal and financial advice and it will go to zero
 >
