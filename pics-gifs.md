@@ -44,6 +44,8 @@ description: PeyPey pays me every day
 
 <figure><img src=".gitbook/assets/pepe-billboard.jpg" alt=""><figcaption><p>PEPE Billboard in New York</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/doge-vs-pepe.jpg" alt=""><figcaption><p>Doge vs. Pepe Likes after 1 hour of publishing the tweet </p></figcaption></figure>
+
 {% embed url="https://twitter.com/Pauly0x/status/1656011767045136402?s=20" %}
 
 {% embed url="https://twitter.com/FullM3talMag/status/1656014425269362689" %}
