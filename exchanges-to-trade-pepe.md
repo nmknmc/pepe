@@ -8,7 +8,7 @@
 
 ## Centralized \[~~S~~CEX]
 
-* [Huobi](https://www.huobi.com/en-us/exchange/pepe\_usdt)
+* [Huobi](https://www.huobi.com/en-us/exchange/pepe\_usdt) (the first exchange to list PEPE)
 * [Binance](https://www.binance.com/en/price/pepe)
 * [OKX](https://www.okx.com/trade-spot/pepe-usdt)
 * [KuCoin](https://www.kucoin.com/price/PEPE)
@@ -16,4 +16,5 @@
 * [Crypto.com](https://crypto.com/price/pepe)
 * [MEXC](https://www.mexc.com/exchange/PEPE\_USDT)
 * [Bitget](https://www.bitget.com/en/spot/PEPEUSDT\_SPBL)
+* [Gate.io](https://www.gate.io/trade/PEPE\_USDT)
 * Gemini (coming :tada:)
