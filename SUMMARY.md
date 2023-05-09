@@ -1,13 +1,13 @@
 # Table of contents
 
 * [🐸 GM](README.md)
-* [Facts](facts.md)
-* [Analytics, Dashboards, Tools](analytics-dashboards-tools.md)
-* [Exchanges to trade PEPE](exchanges-to-trade-pepe.md)
-* [Pics / GIFs](pics-gifs.md)
-* [Music / Videos](videos.md)
+* [🚀 Facts](facts.md)
+* [📊 Analytics, Dashboards, Tools](analytics-dashboards-tools.md)
+* [📈 Exchanges to trade PEPE](exchanges-to-trade-pepe.md)
+* [🖼 Pics / GIFs](pics-gifs.md)
+* [📺 Music / Videos](videos.md)
 
 ## Misc
 
-* [twitter Spaces](misc/twitter-spaces.md)
-* [twitter Accounts](misc/twitter-accounts.md)
+* [👂 twitter Spaces](misc/twitter-spaces.md)
+* [🌎 twitter Accounts](misc/twitter-accounts.md)
