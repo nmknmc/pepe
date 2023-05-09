@@ -3,7 +3,7 @@
 * [🐸 GM](README.md)
 * [🚀 Facts](facts.md)
 * [📊 Analytics, Dashboards, Tools](analytics-dashboards-tools.md)
-* [📈 Exchanges to trade PEPE](exchanges-to-trade-pepe.md)
+* [💰 Exchanges to trade PEPE](exchanges-to-trade-pepe.md)
 * [🖼 Pics / GIFs](pics-gifs.md)
 * [📺 Music / Videos](videos.md)
 
