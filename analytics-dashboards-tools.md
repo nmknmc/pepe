@@ -1,7 +1,3 @@
----
-description: PeyPey pays me every day
----
-
 # Analytics, Dashboards, Tools
 
 ## Analytics
