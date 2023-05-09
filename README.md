@@ -29,6 +29,14 @@ A collection of things that is growing as we find them...
 [exchanges-to-trade-pepe.md](exchanges-to-trade-pepe.md)
 {% endcontent-ref %}
 
+{% content-ref url="pics-gifs.md" %}
+[pics-gifs.md](pics-gifs.md)
+{% endcontent-ref %}
+
+{% content-ref url="videos.md" %}
+[videos.md](videos.md)
+{% endcontent-ref %}
+
 {% content-ref url="misc/twitter-spaces.md" %}
 [twitter-spaces.md](misc/twitter-spaces.md)
 {% endcontent-ref %}
