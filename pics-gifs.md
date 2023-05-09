@@ -9,3 +9,5 @@
 <figure><img src=".gitbook/assets/pepe-copium.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/pepe-smoke.jpg" alt=""><figcaption></figcaption></figure>
+
+<img src=".gitbook/assets/pepe-enjoy-the-ride.jpg" alt="" data-size="original">
