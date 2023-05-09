@@ -6,7 +6,7 @@ description: 'Everything around the coin we love: $PEPE'
 
 Launched stealth with no presale, zero taxes, LP burnt and contract renounced, $PEPE is a coin for the people, forever. Fueled by pure memetic power, let $PEPE show you the way. In Lord Kek we trust.
 
-A collection of things that is growing as we find them...&#x20;
+A collection of things that is growing as we find them...
 
 <details>
 
@@ -38,7 +38,7 @@ A collection of things that is growing as we find them...&#x20;
 
 <summary>Exchanges you can trade $PEPE on</summary>
 
-* Decentralized:&#x20;
+* Decentralized:
   * [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH\&outputCurrency=0x6982508145454Ce325dDbE47a25d4ec3d2311933)
   * [1inch](https://app.1inch.io/#/1/simple/swap/ETH/PEPE)
   * [Sushiswap](https://www.sushi.com/swap?fromChainId=1\&fromCurrency=NATIVE\&toChainId=1\&toCurrency=0x6982508145454Ce325dDbE47a25d4ec3d2311933)
@@ -83,3 +83,5 @@ It's impossible to find every twitter space but looking at these I'm sure you'll
 > I can give legal and financial advice and it will go to zero
 >
 > _-- Fake Lawyer_
+
+[pepe.nmknmc.xyz](https://pepe.nmknmc.xyz)
