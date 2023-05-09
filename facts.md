@@ -12,8 +12,10 @@ PeyPey pays me every day
 * Max Supply: 420,690,000,000,000
 * Cash Tag: $PEPE
 * Contract Address (ETH): [0x6982508145454ce325ddbe47a25d4ec3d2311933](https://etherscan.io/address/0x6982508145454ce325ddbe47a25d4ec3d2311933)
-* No VC Bullshit
+* No Bullshit, no VC Bullshit
 * No Token Unlocks
+* No Taxes
+* Contract renounced
 
 ## Pepe the Frog
 
