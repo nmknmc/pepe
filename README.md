@@ -52,5 +52,5 @@ A collection of things that is growing as we find them...
 [pepe.nmknmc.xyz](https://pepe.nmknmc.xyz)
 
 {% hint style="info" %}
-Wanna add something? Hit up the [repo](https://github.com/nmknmc/pepe-docs) on Github and do a PR
+Wanna add something? Hit up the [repo](https://github.com/nmknmc/pepe-docs) on Github and do a PR, or hit me up on [twitter](https://twitter.com/nmknmc)
 {% endhint %}
