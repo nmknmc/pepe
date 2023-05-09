@@ -21,12 +21,12 @@ A collection of things that is growing as we find them...
 
 </details>
 
-{% content-ref url="analytics-dashboards-tools.md" %}
-[analytics-dashboards-tools.md](analytics-dashboards-tools.md)
+{% content-ref url="analytics.md" %}
+[analytics.md](analytics.md)
 {% endcontent-ref %}
 
-{% content-ref url="exchanges-to-trade-pepe.md" %}
-[exchanges-to-trade-pepe.md](exchanges-to-trade-pepe.md)
+{% content-ref url="exchanges.md" %}
+[exchanges.md](exchanges.md)
 {% endcontent-ref %}
 
 {% content-ref url="pics-gifs.md" %}

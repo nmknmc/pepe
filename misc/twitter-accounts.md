@@ -2,7 +2,7 @@
 description: Interesting twitter accounts writing about $PEPE
 ---
 
-# twitter Accounts
+# 🌎 twitter Accounts
 
 * [Pauly0x](https://twitter.com/Pauly0x)
 * [Kenobi](https://twitter.com/OG\_Kenobi\_Hello)

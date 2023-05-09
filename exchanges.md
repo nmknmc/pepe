@@ -1,4 +1,10 @@
-# Exchanges to trade PEPE
+---
+description: >-
+  Decentralized and centralized exchanges to trade your dollars (brrrrr) into
+  PEPE
+---
+
+# 💰 Exchanges
 
 ## Decentralized \[DEX]
 

@@ -2,7 +2,7 @@
 description: Collected videos from twitter, Reddit, etc.
 ---
 
-# Music / Videos
+# 📺 Music / Videos
 
 twitter Embeds take a bit to load...
 

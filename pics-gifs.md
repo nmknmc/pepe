@@ -2,7 +2,7 @@
 description: PeyPey pays me every day
 ---
 
-# Pics / GIFs
+# 🖼 Pics / GIFs
 
 <figure><img src=".gitbook/assets/mmga1.webp" alt=""><figcaption><p>Official symbol</p></figcaption></figure>
 

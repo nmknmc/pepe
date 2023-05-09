@@ -1,4 +1,4 @@
-# twitter Spaces
+# 👂 twitter Spaces
 
 It's impossible to find every twitter space but looking at these I'm sure you'll find more from participants
 

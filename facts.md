@@ -1,4 +1,4 @@
-# Facts
+# 🚀 Facts
 
 {% hint style="success" %}
 PEPE pays me every day
