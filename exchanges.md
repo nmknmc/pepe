@@ -23,4 +23,4 @@ description: >-
 * [MEXC](https://www.mexc.com/exchange/PEPE\_USDT)
 * [Bitget](https://www.bitget.com/en/spot/PEPEUSDT\_SPBL)
 * [Gate.io](https://www.gate.io/trade/PEPE\_USDT)
-* Gemini (coming :tada:)
+* [Gemini](https://www.gemini.com/prices/pepe)
