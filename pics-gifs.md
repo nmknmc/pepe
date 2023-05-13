@@ -4,13 +4,15 @@ description: PeyPey pays me every day
 
 # 🖼 Pics / GIFs
 
+<figure><img src=".gitbook/assets/pepe-frens.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src=".gitbook/assets/pepe-twitter.jpg" alt=""><figcaption></figcaption></figure>
 
 <img src=".gitbook/assets/musk-with-pepes.jpg" alt="" data-size="original">l
 
 <figure><img src=".gitbook/assets/pepe-with-woman.jpg" alt=""><figcaption></figcaption></figure>
 
-![](.gitbook/assets/pepe-frens.jpg)
+
 
 <figure><img src=".gitbook/assets/pepe-people.jpg" alt=""><figcaption></figcaption></figure>
 
