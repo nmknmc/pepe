@@ -14,4 +14,4 @@
 
 ***
 
-* [Meme Generators](meme-generators.md)
+* [🍰 Meme Generators](meme-generators.md)
