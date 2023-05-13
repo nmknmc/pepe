@@ -4,6 +4,8 @@ description: PeyPey pays me every day
 
 # 🖼 Pics / GIFs
 
+<figure><img src=".gitbook/assets/pepe-chart.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src=".gitbook/assets/pepe-frens.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/pepe-twitter.jpg" alt=""><figcaption></figcaption></figure>
