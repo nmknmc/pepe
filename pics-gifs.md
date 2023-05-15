@@ -4,6 +4,8 @@ description: PeyPey pays me every day
 
 # 🖼 Pics / GIFs
 
+<figure><img src=".gitbook/assets/pepe-toilet.jpg" alt=""><figcaption><p>I see PEPE everywhere, Photo by <a href="https://twitter.com/iFaceiro">iFaceiro</a></p></figcaption></figure>
+
 <figure><img src=".gitbook/assets/pepe-nyc.jpg" alt=""><figcaption><p>$PEPE is a revolution, Photo by <a href="https://twitter.com/froot1007">froot1007</a></p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/pepe-chart.jpg" alt=""><figcaption></figcaption></figure>
