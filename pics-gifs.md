@@ -4,6 +4,8 @@ description: PeyPey pays me every day
 
 # 🖼 Pics / GIFs
 
+<figure><img src=".gitbook/assets/pepe-michael-jordan.jpg" alt=""><figcaption><p>PEPE aka Michael Jordan</p></figcaption></figure>
+
 <figure><img src=".gitbook/assets/pepe-world.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/pepe-toilet.jpg" alt=""><figcaption><p>I see PEPE everywhere, Photo by <a href="https://twitter.com/iFaceiro">iFaceiro</a></p></figcaption></figure>
